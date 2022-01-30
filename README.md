@@ -54,32 +54,32 @@ The course is aimed at research scientists or clinicians/healthcare professional
 
 ## Course manual
 **Module 1 - Artemis**  
-     - [Introductory presentation](presentations/) - ***TO DO***  
+     - [Introductory presentation](presentations/) 
      - [Online manual](manuals/module_artemis/module_artemis.md)  
      - [Manual PDF version](manuals/module_artemis/module_artemis.pdf)  
   
 **Module 2 - Linux & Scripting**  
-     - [Introductory presentation](presentations/WWPG_Module2_LinuxScripting_Introduction.pdf)  
+     - [Introductory presentation](presentations/)  
      - [Online manual](manuals/module_linux_scripting/module_linux_scripting.md)  
      - [Manual PDF version](manuals/module_linux_scripting/module_linux_scripting.pdf)  
   
 **Module 3 - Short Read Mapping**  
-     - [Introductory presentation](presentations/Mapping_Module_intro.pdf)  
+     - [Introductory presentation](presentations/)  
      - [Online manual](manuals/module_shortread_mapping/module_shortread_mapping.md)  
      - [Manual PDF version](manuals/module_shortread_mapping/module_shortread_mapping.pdf)  
   
 **Module 4 - Phylogenetics**  
-     - [Introductory presentation](presentations/) - ***TO DO***  
+     - [Introductory presentation](presentations/)
      - [Online manual](manuals/module_phylogenetics/module_phylogenetics.md)  
      - [Manual PDF version](manuals/module_phylogenetics/module_phylogenetics.pdf)   
   
 **Module 5 - Genome Assembly**  
-     - [Introductory presentation](presentations/WWPG_Module5_GenomeAssembly_Introduction.pdf)   
+     - [Introductory presentation](presentations/)   
      - [Online manual](manuals/module_denovo_assembly/module_denovo_assembly.md)  
      - [Manual PDF version](manuals/module_denovo_assembly/module_denovo_assembly.pdf)    
   
 **Module 6 - Transcriptomics**  
-     - [Introductory presentation](presentations/WWPG_VietnamVirtual_Talk_Module6_transcriptomics.pdf)  
+     - [Introductory presentation](presentations/)  
      - [Online manual](manuals/module_transcriptomics/module_transcriptomics.md)  
      - [Manual PDF version](manuals/module_transcriptomics/module_transcriptomics.pdf)   
   
@@ -88,7 +88,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
      - [Manual PDF version](manuals/exercise_RNAseq/exercise_RNAseq.pdf)  
   
 **Task 2 - Phylogenomics of Salmonella**  
-     - [Introductory presentation](presentations/Georeferencing_group_task_Asia2021.pdf)  
+     - [Introductory presentation](presentations/)  
      - [Online manual](manuals/exercise_bacterial/Task2_georeferencing.md)  
      - [Manual PDF version](manuals/exercise_bacterial/Task2_georeferencing.pdf) 
   
