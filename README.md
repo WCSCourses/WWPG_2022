@@ -22,7 +22,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
 - [Fernán Agüero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
 - [Florencia Díaz Viraqué](https://www.researchgate.net/profile/Florencia-Diaz-Viraque), Institut Pasteur Montevideo, Uruguay
 - [Jose F. Tort](https://www.researchgate.net/profile/Jose-Tort), Univ. de la República, Uruguay
-- [Lionel Uran Landaburo](https://www.researchgate.net/profile/Lionel-Uran-Landaburu-2), Univ. Nacional de San Martín, Argentina
+- [Lionel Urán Landaburu](https://www.researchgate.net/profile/Lionel-Uran-Landaburu-2), Univ. Nacional de San Martín, Argentina
 - [Marcela Suarez Esquivel](https://www.researchgate.net/profile/Marcela-Suarez-Esquivel), Univ. Nacional, Costa Rica
 - [Rodrigo Quiroga](https://www.conicet.gov.ar/new_scp/detalle.php?id=36602%20[conicet.gov.ar]), Univ. Nacional de Córdoba, Argentina
 - [Sophie Belman](https://www.sanger.ac.uk/person/belman-sophie/), Wellcome Sanger Institute, UK
