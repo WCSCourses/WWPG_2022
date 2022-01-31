@@ -19,7 +19,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
 
 ## Instructors
 - [Daryl Domman](https://hsc.unm.edu/medicine/departments/internal-medicine/programs-and-centers/global-health/research/pathogen-genomics.html), University of New Mexico, USA
-- [Fernan Aguero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
+- [Fernán Agüero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
 - [Florencia Díaz Viraqué](https://www.researchgate.net/profile/Florencia-Diaz-Viraque), Institut Pasteur Montevideo, Uruguay
 - [Jose F. Tort](https://www.researchgate.net/profile/Jose-Tort), Univ. de la República, Uruguay
 - [Lionel Uran Landaburo](https://www.researchgate.net/profile/Lionel-Uran-Landaburu-2), Univ. Nacional de San Martín, Argentina
