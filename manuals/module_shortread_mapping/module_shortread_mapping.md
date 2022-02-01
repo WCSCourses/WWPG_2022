@@ -74,7 +74,7 @@ The FASTQ sequence format is shown below.
 **Figure**. FASTQ sequence file format
 
 
-To begin the exercise we need to open up a terminal window. We will then need to move into the ‘Module_2_Mapping’ directory using the UNIX command ‘cd’ .
+To begin the exercise we need to open up a terminal window. We will then need to move into the ‘Module_3_Mapping’ directory using the UNIX command ‘cd’ .
 
 ![terminal](figures/module2_image3.png)
 
