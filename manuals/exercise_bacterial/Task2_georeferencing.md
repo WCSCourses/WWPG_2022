@@ -62,7 +62,7 @@ To achieve this, you will be provided with the following files in the Task folde
 * And a PDF of the literature reference cited on page 2.
 
 ----
-## Other infromation
+## Other information
 
 ### Your isolate names
 
