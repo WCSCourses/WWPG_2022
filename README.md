@@ -64,7 +64,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
      - [Manual PDF version](manuals/module_linux_scripting/module_linux_scripting.pdf)  
   
 **Module 3 - Short Read Mapping**  
-     - [Introductory presentation](presentations/)  
+     - [Introductory presentation](presentations/01FEB22_Mapping_intro_SS_SB.pdf)  
      - [Online manual](manuals/module_shortread_mapping/module_shortread_mapping.md)  
      - [Manual PDF version](manuals/module_shortread_mapping/module_shortread_mapping.pdf)  
   
