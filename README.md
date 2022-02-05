@@ -54,7 +54,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
 
 ## Course manual
 **Module 1 - Artemis**  
-     - [Introductory presentation](presentations/) 
+     - [Introductory presentation](presentations/Mapping_Module_intro.pdf) 
      - [Online manual](manuals/module_artemis/module_artemis.md)  
      - [Manual PDF version](manuals/module_artemis/module_artemis.pdf)  
   
