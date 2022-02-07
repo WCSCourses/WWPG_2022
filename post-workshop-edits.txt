@@ -2,3 +2,5 @@
 
 - add PF.tab back into Artemis directory on VM
     - can be found in the "manual_artemis" directory on GitHub
+ 
+ - ensure Guest Additions Packages installed correctly to allow bidirectional functionality between host and VM
