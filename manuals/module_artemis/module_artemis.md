@@ -106,9 +106,9 @@ The Navigator panel is fairly intuitive so open it up and give it a try.
 1. Think of a number between 1 and 4809037 and go to that base (notice how the cursors on the horizontal sliders move with you).
 2. Your favourite gene name (it may not be there so you could try ‘fts’).
 3. Use ‘Goto Feature With This Qualifier value’ to search the contents of all qualifiers for a particular term. For example using the word ‘pseudogene’ will take you to the next feature with the word ‘pseudogene’ in any of its qualifiers. Note how repeated clicking of the ‘Goto’ button takes you to the following pseudogene in the order that they occur on the chromosome.
-4. Look at Appendix VI which is a functional classification scheme used for the annotation of S. Typhi. Each CDS has a class qualifier best describing its function. Use the ‘Goto Feature With This Qualifier value’ search to look for CDSs belonging to a class of interest by searching with the appropriate class values.
+4. Look at Appendix VIII which is a functional classification scheme used for the annotation of S. Typhi. Each CDS has a class qualifier best describing its function. Use the ‘Goto Feature With This Qualifier value’ search to look for CDSs belonging to a class of interest by searching with the appropriate class values.
 5. tRNA genes. Type ‘tRNA’ in the ‘Goto Feature With This Key’.
-6. Regulator-binding DNA consensus sequence (real or made up!). Note that degenerate base values can be used (Appendix VIII).
+6. Regulator-binding DNA consensus sequence (real or made up!). Note that degenerate base values can be used (Appendix X).
 7. Amino acid consensus sequences (real or made up!). You can use ‘x’s. Note that it searches all six reading frames regardless of whether the amino acids are encoded or not.
 
 
