@@ -49,7 +49,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
   - Bacterial exercise   
 
 ### Detailed timetable
-[Download here]()
+[Download here](Working_with_Pathogen_Genomes_February_2022_timetable.pdf)
 
 
 ## Course manual
