@@ -1,8 +1,9 @@
 
-Module 1:
+
 - add PF.tab back into Artemis directory on VM
     - can be found in the "manual_artemis" directory on GitHub
-    
-- Appendix VI is actually Appendix IV. Update. 
  
  - ensure Guest Additions Packages installed correctly to allow bidirectional functionality between host and VM
+ 
+ 
+ - rename terrible extensions such as ".tab"
