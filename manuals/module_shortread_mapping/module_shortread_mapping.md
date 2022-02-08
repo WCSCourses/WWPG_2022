@@ -238,9 +238,10 @@ To examine the read mapping we have just performed we are going to read our BAM 
 
 **Figure**. Loading a BAM file into Artemis.
 
-You should see the BAM window appear as in the screen shot below. Remember these reads are of the Swedish NV strain mapped against the LGV strain L2 reference genome. In the top panel of the window each little horizontal line represents a sequencing read. Notice that some reads are blue which indicates that these are unique reads, whereas green reads represent “duplicated” reads that have been mapped to exactly the same position on the reference sequence. To save space, if there are duplicated reads only one is shown, which means that there could be a large number of duplicated reads at a given position but the software only depicts one.
-
-NOTE: After an update in Artemis the reads are no longer colored blue and green. In this current version the reads are blue and black. 
+You should see the BAM window appear as in the screen shot below. Remember these reads are of the Swedish NV strain mapped against the LGV strain L2 reference genome. In the top panel of the window each little horizontal line represents a sequencing read. Here you will see blue and green reads; however, your VM has an updated version of artemis, and the reads are no longer colored blue and green. In this current version the reads are blue and black.
+- reads in proper pairs are indicated in blue
+- reads with an unmapped mate, ie one read maps but the other is not, is shown in black
+- duplicate reads are indicated in green
 
 ![artemis_scroll](figures/module2_image10.png)
 
@@ -252,7 +253,7 @@ If you click a read (1 & 2) its mate pair will also be selected. Also note that 
 
 **Figure**. Inspecting reads in Artemis
 
-“Mapping quality”- The mapping quality depends on the number of mismatches between the read and the reference sequence as well as the repetitiveness of the reference sequence. The maximum quality value is 99, whereas a value of 0 means that the read mapped equally well to at least one other location and is therefore not reliably mapped.
+“Mapping quality”- The mapping quality depends on the number of mismatches between the read and the reference sequence as well as the repetitiveness of the reference sequence. The maximum quality value is 60, whereas a value of 0 means that the read mapped equally well to at least one other location and is therefore not reliably mapped.
 
 You can actually use several details relating to the mapping of a read to filter the reads from the BAM file that are shown in the window. To do this, right-click again over the stack plot window showing the reads and select “Filter Reads…”.  A window will appear with many options for filtering, as shown below.
 
