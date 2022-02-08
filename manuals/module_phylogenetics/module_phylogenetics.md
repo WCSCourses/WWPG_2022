@@ -86,8 +86,9 @@ First you should navigate to Module 4 directory.
 # change to the working directory
 cd Module_4_Phylogenetics
 
-# We need to install a tool quickly
+# We need to install two tools quickly
 sudo apt-get install clustalo
+sudo apt-get install phyml
 
 # The password is manager and press 'Y' when prompted for the install
 
