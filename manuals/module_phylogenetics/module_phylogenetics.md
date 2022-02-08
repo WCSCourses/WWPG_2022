@@ -321,8 +321,9 @@ Finally the result is redirected into a file called **NV_WGS.fastq**.
 The sequence produced is not the complete genome of the NV isolate, as mapping only allows variants to be called in regions present in the reference genome, as where the amount of variation is not too great. Instead, the sequence produced is a pseudosequence of the bases mapped against each base of the reference genome.
 We have created pseudosequences for the other 15 isolates, and included these, along with the reference chromosome sequence in a file called Others_WGS.fasta
 
+**MAKE SURE YOU DO THIS STEP!!!!**
 
-Using cat, concatenate the Others_WGS.fasta and NV_WGS.fasta files into a single alignment called Ct_WGS.fasta
+**Using cat, concatenate the Others_WGS.fasta and NV_WGS.fasta files into a single alignment called Ct_WGS.fasta**
 
 Try to open the alignment in Seaview. You will find it is much larger than the other datasets you have used.
 
