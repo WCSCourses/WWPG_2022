@@ -240,6 +240,8 @@ To examine the read mapping we have just performed we are going to read our BAM 
 
 You should see the BAM window appear as in the screen shot below. Remember these reads are of the Swedish NV strain mapped against the LGV strain L2 reference genome. In the top panel of the window each little horizontal line represents a sequencing read. Notice that some reads are blue which indicates that these are unique reads, whereas green reads represent “duplicated” reads that have been mapped to exactly the same position on the reference sequence. To save space, if there are duplicated reads only one is shown, which means that there could be a large number of duplicated reads at a given position but the software only depicts one.
 
+NOTE: After an update in Artemis there reads are no longer colored blue and green. In this current version the reads are blue and black. 
+
 ![artemis_scroll](figures/module2_image10.png)
 
 **Figure**. Moving around in Artemis
