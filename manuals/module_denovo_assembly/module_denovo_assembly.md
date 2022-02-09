@@ -125,9 +125,9 @@ firefox multiqc_report.html
 
 # Once you have finished exploring FastQC/MultiQC, open the kraken report to determine the proportion of the read data that is “unclassified”.
 
-head -n 25 kraken.report
+head -n 35 kraken.report
 
-#--- "head" is used to look at the top of the file, and "-n 25" selects the top 25 lines. You want to look at the very top of this output.
+#--- "head" is used to look at the top of the file, and "-n 35" selects the top 35 lines. You want to look at the very top of this output.
 ```
 
 ### The kraken report
