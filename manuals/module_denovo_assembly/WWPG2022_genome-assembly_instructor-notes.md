@@ -15,12 +15,13 @@
 
 ### 2. Kraken
 **Q. What proportion of the reads are “unclassified”, and therefore potentially S. mansoni reads?**
+- about 95% are unclassified and potentially S. mansoni - note, only potentially, as this reports ALL sequences not in the database
 - Kraken works by matching kmers in the reads against kmers in the database. 
 - The kraken database contains primarily bacterial and viral reference sequnences from NCBI, as well as human and mouse. 
 - There are no parasites, ie, S. mansoni, in the database, so any S. manoni reads will be “unclassified”
 
 **Q. What looks to be the main contaminant? Why might this be so?**
-- Main contaminant is mouse reads, as the S. mansoni lifecycle maintained at Sanger uses mouse (instead of human) as the mammalian host. 
+- Main contaminant is mouse reads (~4.5%), as the S. mansoni lifecycle maintained at Sanger uses mouse (instead of human) as the mammalian host. 
 - The introduction of the manual gives this hint away.
 
 
