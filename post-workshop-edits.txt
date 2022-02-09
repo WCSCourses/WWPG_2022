@@ -7,3 +7,7 @@
  
  
  - rename terrible extensions such as ".tab"
+ 
+ Phylogenetics module
+- Seaview / PhyML error with negative (-1) bootstrap values
+- Artemis picutres need updating (Or we get rid of Artemis!)
