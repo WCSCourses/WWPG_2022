@@ -69,7 +69,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
      - [Manual PDF version](manuals/module_shortread_mapping/module_shortread_mapping.pdf)  
   
 **Module 4 - Phylogenetics**  
-     - [Introductory presentation](presentations/)  
+     - [Introductory presentation](presentations/Module_4_Phylogenetics_WWPG_2022.pdf)  
      - [Online manual](manuals/module_phylogenetics/module_phylogenetics.md)  
      - [Manual PDF version](manuals/module_phylogenetics/module_phylogenetics.pdf)   
   
