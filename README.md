@@ -84,7 +84,8 @@ The course is aimed at research scientists or clinicians/healthcare professional
      - [Manual PDF version](manuals/module_transcriptomics/module_transcriptomics.pdf)   
   
 **Task 1 - Sexual development in malaria parasites**  
-     - [Online manual](manuals/exercise_RNAseq/Task1Presentation.pptx)  
+     - [Introductory presentation](presentations/Task1Presentation.pptx)  
+     - [Online manual](manuals/exercise_RNAseq/exercise_RNAseq.md)  
      - [Manual PDF version](manuals/exercise_RNAseq/exercise_RNAseq.pdf)  
   
 **Task 2 - Phylogenomics of Salmonella**  
