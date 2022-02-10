@@ -149,7 +149,7 @@ This gene looks to be up-regulated in serially blood passaged parasites; SBP sam
  [↥ **Back to top**](#top)
 
  ******
-## Exercise 3 - Using Kalliso and Sleuth to identify differentially expressed genes <a name="exercise3"></a>
+## Exercise 3 - Using Kallisto and Sleuth to identify differentially expressed genes <a name="exercise3"></a>
 
 *Kallisto* is a read mapper, but instead of mapping against the genome it is designed to map against the transcriptome, i.e. the spliced gene sequences inferred from the genome annotation. Rather than tell you where the reads map it’s aim is in quantifying the expression level of each transcript. It is very fast because it uses pseudoalignment rather than true read alignment. 
 
