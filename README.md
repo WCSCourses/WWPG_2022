@@ -79,12 +79,12 @@ The course is aimed at research scientists or clinicians/healthcare professional
      - [Manual PDF version](manuals/module_denovo_assembly/module_denovo_assembly.pdf)    
   
 **Module 6 - Transcriptomics**  
-     - [Introductory presentation](presentations/)  
+     - [Introductory presentation](presentations/WWPG22_LATAM_Module6_transcriptomics.pptx)  
      - [Online manual](manuals/module_transcriptomics/module_transcriptomics.md)  
      - [Manual PDF version](manuals/module_transcriptomics/module_transcriptomics.pdf)   
   
 **Task 1 - Sexual development in malaria parasites**  
-     - [Online manual](manuals/exercise_RNAseq/exercise_RNAseq.md)  
+     - [Online manual](manuals/exercise_RNAseq/Task1Presentation.pptx)  
      - [Manual PDF version](manuals/exercise_RNAseq/exercise_RNAseq.pdf)  
   
 **Task 2 - Phylogenomics of Salmonella**  
