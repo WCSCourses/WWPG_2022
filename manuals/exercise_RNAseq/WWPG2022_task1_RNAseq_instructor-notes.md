@@ -40,8 +40,14 @@ art -Dbam="Pb_MUT1_sorted.bam,Pb_MUT2_sorted.bam,Pb_MUT3_sorted.bam,Pb_WT1_sorte
 
 ```bash
 # Kallisto needs an index of the transcript sequences.
+kallisto index -i PbANKA_v3_kallisto PbANKA_v3_transcriptome.fa
 
-
+# Then we loop over samples to run kallisto quant
+samples="Pb_MUT1 Pb_MUT2 Pb_MUT3 Pb_WT1 Pb_WT2 Pb_WT3"
+for sample in ${samples} 
+do
+kallisto quant -i PbANKA_v3_kallisto -o ${sample} -b 100 ${sample}_1.fastq.gz ${sample}_2.fastq.gz
+done
 
 ```
 
