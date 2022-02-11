@@ -131,11 +131,11 @@ Here, the * acts as a wildcard symbol and a single file containing all of the ps
 
 Align the sequences in seaview as you were shown in the [Phylogenetics module](manuals/module_phylogenetics/module_phylogenetics.m) and save the file as `All.aln`.
 
-You should now have a file containing 24 taxa each 2.5MB long. Most of the sites in this alignment will be conserved and not provide useful information for phylogenetic inference, so we will shorten the alignment by extracting the variable sites using the program `snp-sites` by typing:
+This file contains 24 taxa each 2.5MB long. Most of the sites in this alignment will be conserved and not provide useful information for phylogenetic inference, so we will shorten the alignment by extracting the variable sites using the program `snp-sites`. We have already run this command for you.
 
 ```
-# Type the below in the command line: 
-snp-sites -o All_snps.aln All.aln
+# Type the below in the command line 
+#snp-sites -o All_snps.aln All.aln
 ```
 
 ### Step 3: Build a phylogenetic tree from the SNP data in your genome alignment
@@ -146,10 +146,10 @@ The reference is:
 
 [A. Stamatakis: "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models". In Bioinformatics, 2006.](https://academic.oup.com/bioinformatics/article/22/21/2688/251208)
 
-Like all programs, RAxML has requirements for the format of input files. Your `All_snps.aln` file is multifasta format and RAxML requires [**phylip**](https://en.wikipedia.org/wiki/PHYLIP) format, so open the file in seaview and save it as phylip format under the name `All_snps.phy` by typing:
+Like all programs, RAxML has requirements for the format of input files. Your `All_pseudogenomes.fa` file is multifasta format and RAxML requires [**phylip**](https://en.wikipedia.org/wiki/PHYLIP) format, so open the file in seaview and save it as phylip format under the name `All_snps.phy` by typing:
 
 ```shell
-seaview All_snps.aln
+seaview All_pseudogenomes.fa
 ```
 
 Save the file by going to _File > Save As > Format > Phylip(*.phy)_ as pictured below.
@@ -161,7 +161,7 @@ Save the file by going to _File > Save As > Format > Phylip(*.phy)_ as pictured 
 Then, back at the command line, run RAxML by typing the following: 
 
 ```shell
-raxmlHPC -m GTRGAMMA -p 12345 –n STm -s All_snps.phy
+raxmlHPC -m GTRGAMMA -p 12345 -n STm -s All_snps.phy
 ```
 Recall that with a single iteration of a maximum likelihood method you risk recovering a tree from a local maximum, which means it might not be the best one. This can be avoided by running multiple iterations with different starting points (we can’t do that now because of time). The addition of multiple runs is done by adding the following flag to the command. 
 
