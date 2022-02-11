@@ -212,13 +212,13 @@ The file contains several columns, of which the most important are:
 
 Column 1: target_id (gene id)
 
-Column 2: pval (p value)
+Column 2: description (some more useful descriptionof the gene than its id)pval (p value)
 
-Column 3: qval (p value corrected for multiple hypothesis testing)
+Column 3: pval (p value)
 
-Column 4: b (fold change)
+Column 4: qval (p value corrected for multiple hypothesis testing)
 
-Column 12: description (some more useful descriptionof the gene than its id) 
+Column 5: b (fold change) 
 
 With a little Linux magic we can get the list of differentially expressed genes with only the columns of interest as above. The following command will get those genes which have an adjusted p value less than 0.01 and a positive fold change. These genes are more highly expressed in SBP samples.
 
